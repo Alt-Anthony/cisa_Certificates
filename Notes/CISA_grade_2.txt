@@ -1,0 +1,83 @@
+INFORMATION TECHNOLOGY COMPONENTS
+Most common IT infra.. components:
+    Switches adn routers,firewalls,remote access,
+    database, client, server, wireless access
+effective comunication is vital in bussiness
+SWTICHES: create a network to share comnnection between users
+they choose the best path for information to travel
+DATABASES: store information needes for operations, is vital
+for business decisions, the network component provides 
+communications between databases, security is important
+in this component
+SERVERS: they serve database to the customer is common to have
+large amount of ram and storage space, security in this
+component is also crucial
+WIRELESS ACCESS
+FIREWALLS: can be implemented in hardware or software
+In hardware firewall you can use DHCP or dynamic host
+configuration protocol, The administrator use ACLs or access
+control lists to ensure only authorized comunications between networks
+It can be managed remotely is critical to have this component in
+security
+REMOTE ACCESS is useful in global business world
+CLIENTS is the information resource provide an interface for users
+there are cases where the clients is critical for the operation	
+LAN/WAN local area network and has a high data transfer rate 
+WAN is normally used in high geographical range and LAN only in small ranges
+
+UPS BATTERY BACKUP back-up power supply
+Client access services, server and host provide services
+
+VIRTUALIZATION easy to restore and replace, anything that uses a standard
+operating system can be virtualized
+
+CYBERSECURTIY TENETS
+
+CONFIDENTIALITY: only to those to authorized to have access
+INTEGRITY: All data must be correct to be complete
+AVAILABILITY:the information must be avaliable when this needed
+
+      IT 	VS   ICS
+CONFIDENTIALITY VS AVAILABILITY
+      C-I-A	      Ava-Inte-Confi
+
+SECURITY CONTROLS
+ACCESS CONTROL: 
+ASSET MANAGEMENT: databases, systems, information, procedures
+archives, People with skills, organization,
+software and hardware, services
+BUSINESS CONTINUITY protect crtical business from
+major failures
+COMMUNICATIONS AND OPERATIONAL the procedures should be
+documented and made available for all authorized users,
+the procedures should specify instruction for each function
+any change has to be tested before implementation
+COMPILANCE every items has to be documented and kept up to date
+any records with information, security should be 
+categorized nad maintained
+HUMAN RESOURCES report a risk for the organization
+take responsability, protect assets, is important
+to keep personnel aware of security obligations
+INFORMATION SYSTEMS 
+PHYSICAL ENVIROMENTAL protect sensitive areas from third
+party users
+RISK ASSESSMENT to identify risk and prioritize mitigation
+actions based on how dangerous is the asset
+SECURITY INCIDENT MANAGEMENT how to act against a
+security incident, intrusctions, steps to be taken,
+Feedback 
+SECURITY GOVERNANCE
+SECURITY POLICY Importance of the security, standards,
+follow procedures
+
+IT VULNERABILITIES
+Tools available to exploit the vulnerability?
+How easy is to exploit the ||?
+How much does it cost to fix?
+How accurate is the information about the ||?
+Is  there any colateral damage ?
+There are vulnerabilities since the networks were designed
+Vulnerabilities dont always result in an oportunity
+for an adversary
+
+ 
