@@ -1,0 +1,148 @@
+DESCRIBE COMMON ICS COMPONENTS
+each ICS function differently
+SERVERS store configuration and saves process data for later
+retrieval, allow remote control
+ENGINEERING WORKSTATIONS a human-machine interface, modify
+database or controllers
+FIELD DEVICES are instruments, they control the process
+with parameters they are called input devices too, output
+devices are valves switches, they are the interface between ICS
+and physical process
+  INPUT
+    DIGITAL sensors use a encoded ICS communications
+    ANALOG use an analog signal such as 4 to 20MA
+    DISCRETE support events like alarms and states
+  OUTPUT
+    DISCRETE can comunicate directly with input devices,
+    they can make control decisions like a field controller
+    ANALOG used to control actuators, valves and motors,
+    send a signal to open or close
+    DIGITAL control voltage, communicate more quickly
+  
+SAFETY SYSTEMS 	provide protection 
+
+FIELD CONTROLLERS collect and process I/O data,process and 
+command from the MHI  to field controllers, convert electric signals
+to digital signals and do the same alreves
+ REMOTE TERMINAL UNIT sometimes called remote telemetry unit
+ relays information from a remote location using ICS protocols
+ can execute programs even witohut an operator convert analog
+ and discrete measurements to digital:
+	-Oil and gas
+	-refineries
+	-water and wastewater
+	-electric power
+	-mine sites
+	-transport system
+ INTELLIGENT ELECTRONIC DEVICE used in energy sector, receive data from I/O
+ PROGRAMMABLE LOGIC CONTROLLER can automate an entire production line
+ 	-Ladder logic
+	-text structured
+	-Diagrams
+	-Function chart
+	-iNstruction lists
+ PROGRAMMABLE AUTOMATION CONTROLLER fits better with extensive
+ process control requirements, provide a more open architecture
+ easy to understand it can be used for communicating monitoring and control
+ various networks and devices 
+ HUMAN MACHINE INTERFACE present a graphical user interface for real time
+ view of the process is an obvious target for attacks 
+
+HMI previosuly called MMI, comes in two forms, a touch panel
+or a software aplication
+
+FIELD DEVICES 		FIELD CONTROLLER	HMI
+Meters,sensors,		PLC,PAC,RTU,IED		workstations
+valves,switches		logic controller,	SCADA SERVER, emergency
+			Automation controller,	EMERGENCY SYSTEM
+			Remote termina unit,
+			electronic device
+
+IDENTITFY ICS TYPES
+ SCADA supervisory control and data acquisition, analyze real time
+ data used to controll dispersed assets, its a risk for cyberattacks
+ use a master controller to comunicate
+ 
+ DISTRIBUTED CONTROL SYSTEMS or DCS deployed inside the control area
+ can have multiple controllers dividing tasks even if one part of the
+ DCS fails the control area can continue 
+
+ SCADA is data-gathering oriented and DCS is process oriented
+
+ PROCESS CONTROL SYSTEM OR PCS similar to SCADA but perform many
+ functions as DCS, communicate using a plant network
+
+DISCUSS DATA FLOW WHITHIN AN ICS
+ process data control the measurements, can be also used to
+ track costs,provide design, requirements
+PROCESS FLOW
+ CONTROL LOOP fundamental to build ICS, regulate the process
+ can be fully automated or include human control
+ DIAGRAM operated by human or EMS or DCS 
+ CASCADING CONTROL 
+ DATA FLOW field controllers transmit the data to HMI to
+ station in time real
+Network communication by ICS varies like Vendor,Protocols and Topology
+Process data Flow, Temperature, Pressure
+
+RECOGNIZE ICS COMMUNICATION TOPOLOGIES, METHODS, AND PHYSICAL MEDIA
+RS232 is still used for ptp communications
+ BUS TOPOLOGY single cable everyone know that a transmission is 
+ ocurring
+ RING TOPOLOGY constructed from a closed loop cable communicate
+ between a token 
+ STAR TOPOLOGY is central device t communicate send the data to the central
+ device
+ Master Field Controller relation critical controllers are polled twice
+ a second, a master can communicate with one or more field
+ Physical Media 
+  Leased Lines dedicated communication circuits, useful for remote but not
+  available in all areas
+  Wired Media fiber and copper lines or wired media they are fast and reliable
+  but is vulnerable to cyberattack
+  WIFI common in local operations
+  Radio frecuency used in site facility or plant operations
+  Microwave and cellular faster but expensive
+ 
+DISCUSS COMMON PROTOCOLS USED IN ICS
+ COMMUNICATION CHANNELS follow from one device to another, can be a wire or logical
+ its defined by protocols also include mechanisms for how the devices manage the
+ connections. Field devices, controller and HMI USE these protocols.
+ Common protocols
+ Modbus oldest and most popular, simple and openness. for two or more devices
+ use TCP/IP protocols, is a master/slave architecture
+  Versions 
+   ASCII Original easy to resolve
+   PLUS RS485
+   RTU use binary form more efficient than ASCII
+   TCP/IP based on Ethernet
+  Authentication and authorization is required
+  Vulnerabilities 
+ DNP3 or Distributed Network Protocol 3 used in SCADA and remote systems
+ used in support communication across the world, not provide for authentication
+ or authorization, Acts as Outstaion for the Master, also as Master of Outstation
+ Three layers contained within the aplication Data Link Layer, Transport Layer,
+ Application Layer.
+ ICCP or Inter-Control Center Communications Protocol for real-time data excahnge
+ also provides services for data transfer, depending on the type of request.
+  Security standard is insecure 
+ FIELDBUS collections of protocols, permits various topologies, can be bi-directional
+ multi-drop, serial-bus.
+  Levels 4 data monitoring at large scale, level 3 data communication, level
+  2 complexity scale, level 1 isolated field devices
+ There are two sections to the fieldbus, Interconnection and application 
+ PROFIBUS designed for I/O in factory and automation, devices connect to a central
+ line, Only one master can control the bus.
+ There are three types of PROFIBUS: FMS(FieldBus Message Specification), Profibus DP,
+ Profibus PA, the first is used for data acquisition, the second for fast communications
+ the third when the security is the most important.
+ OPEN PLATFORM COMMUNICATION(OPC) is the most versatile in the industry, is a client/server based
+ communication, more servers for more clients, the client is who decide all the operations
+ CLASSIC SPECIFICATION and UNIFIED ARCHITECTURE 
+ the biggest difference is UA doenst rely in technologies making it possible to implement
+ on any platfoorm also can use models and structures
+ OPC is popular for simplify the protocol without the need for an ICS vendor, it can support any protocol
+  
+ 
+ 
+ 
