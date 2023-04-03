@@ -1,0 +1,41 @@
+CYBERSECURITY RISK
+THREAT-VULNERABILITY-CONSEQUENCE
+
+THREAT potential to someone to exploit a particular information
+hacker, intentional attacks
+ Attritbutes: Capability, Opportunity, Intent
+ With these three attributes an attack will succeed.
+ Some ides to stop:
+  Incident responde plan
+  Secure Credential Management
+  No external network connections
+  Use of the firewall
+VULNERABILITY caused by an accident or exploited by an adversary
+the adversary can cause great harm
+Mitigate this vulnerabilites can be complex in ICS system
+even aftter testing we must check the system to ensure the
+mitigation is working
+CONSEQUENCES financial loss and easy to calculate in IT systems
+factors such as lost revenue, asset replacement, cost and cost
+of the system, repair. With ICS in many cases other factors can
+be consequences
+
+ELEVATED RISK FACTORS
+CULTURAL FACTORS in ICS include people or processes involved with
+ICS, Now businesses require Isolated ICS to be safe
+ People create process to stop cybersecurities, people can create
+ vulnerabilities
+TECHNICAL FACTORS in ICS with the acutal systems and components in
+the system
+ Interconnect Networks when ICS an IT are connected and if there 
+ not protection, it creates a vulnerability
+ Policies y Procedures  
+ Vendors and the implementation of patches can make the system
+ work in unexpected manner 
+ Cybersecurity vulnerability such as Legacy devices and current
+ devices
+ Increasing Threats 
+
+ICS/IT INTEGRATED
+Mitigations: Speed, Detection, Intrusion, Resources, Compatibility
+
