@@ -1,0 +1,59 @@
+ICS CYBERSECURITY THREATS
+can be intentional or unintentional, natural or man-made
+HUMAN THREAT
+person o threat actor will abandon the attack if the 
+security is beyond his conditions
+ Attributes: -Intent, the motive or goal, curiosity or money
+ espionage, revenge or a cause
+             -Capability, the resources to made the attack,
+ the attacker must have enough information to perform the
+ attack
+    	     -Opportunity, the conditions for the enemy, to
+ to be sure that the attack will be successful, about	
+ vulnerabilites and exposure from the targets
+
+Overtime the adversaries can acquire or create the capability
+and oportunity, Unpredictable behavior creates situations
+where static countermeasures may not be adequate
+
+THREATS: Not Understood, Not predictable
+Threat Actor Categories:
+-Mainstream  is the largest threat group they want attention or
+notoriety. generally not well organized
+-Organized threats, generally targetin a group, they might
+want revenge, money or attention for a cause, it can be 
+a large and more organized group 
+ -Terrorist/Nation State only want to eliminate, terrorize, they
+go for military, gobern institution, or political places
+
+Intentional vs Unintentional Cyber Threats
+Discuss Threat Trends for ICS
+
+HAZARDS: Predictable, Understood danger:
+It can be posible to calculate when a system or device will
+fall based in a historial.
+
+Describe Attacker Tools and Techniques
+First phase: RECONNAISANCE/TARGETING
+Second phase: VULNERABILITY ASSESSMENT
+Third phase: ATTACK
+
+MALWARE: 
+Backdoors bypass authentication or remote access to a computer
+Botnets: Large number of infected computers to generate spam or DoS
+Ransomware: hold data or systems unitil you pay
+RootKit maintain privileges access
+Trojan malicious software hided in a program
+Virus infect many files between computers
+Worm replicate and travel across the network
+ICS cybersecurity  
+--New independent research
+--Increasing number of disclosed vulnerabilities
+--Asset owner requirements
+--Vendor market differentiators
+--More understanding about influence of ICS on critical infrastructure
+--Increase in incident reports
+--Increase in easy-to-use attack tools
+
+
+ 
