@@ -1,0 +1,59 @@
+IDENTIFY VULNERABLE ELEMENTS IN AN ICS
+Targets: any system,Integrated systems are vulnerable, and
+more risk if connected to the control system network
+Common vulnerabilities:
+-Poor Code
+-Vulnerable Web Services
+-Poor Network Protocol Implementation
+-Poor Patch Management
+-Weak Authentication
+-Least User Privileges Violation
+-Information Disclosure
+-Network Design
+-Network Componenet Configurations
+
+Discuss the Factors Contributing To ICS VULNERABILITIES
+-Rapid information exchange limit security
+-Real-Time accessibility to critical operations, use of 
+remote access
+-Direct access to the operational enviroment
+FACTORS
+-Pressure from Industry
+Cut costs can be a disadvantage
+-Technology Architecture
+Use of cloud or TCP/IP	
+-Remote Access
+VPN
+
+CAUSES OF ICS CYBER VULNERABILITIES
+Legacy Control Systems
+MIGRATION TO COTS introduces IT vulnerablities in ICS
+Platform and Network Vulnerabilities	
+Cybersecurity Culture
+Goals:
+Best practices, Policies and procedures, Training in Cyber
+DEVICE PROGRAMMING
+Issues dont always support access control, data storm,
+packet flooding, malformed data
+CONNECTIVITY AND NETWORK ARCHITECTURE
+Vulnerabilities:
+Modems
+Wireless
+Public Networks
+Private Networks
+
+DHS Programs Assiting Asset Owners and Vendors in Identify
+ICS VULNERABILITIES
+-ALERTS
+-ADVISORIES
+-MONITOR
+-JSARs(Join Security Awareness Reports)
+-OTHER REPORTS
+-CSET(Cybersecurity Evaluation Tool Assessments)
+Top Vulnerabilities
+-Credential Management
+-Network design
+-Lack of formal documentation
+-Weak Firewall rules
+-Audit and accountability
+-Permissions and privilege access control
