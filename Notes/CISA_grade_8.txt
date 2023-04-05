@@ -1,0 +1,39 @@
+CYBERSECURITY CONSEQUENCES
+3 TENETS OF INFORMATION SECURITY
+99,999%(five 9s standard)
+All three tenets are essential for ICS
+Attackks on ICS:
+The risk of a major incident are real, even more ICS are
+interconnected witn Internet-based infraestructures
+Impacts
+
+EVENTS THAT CAN LEAD TO DISRUPTIONS
+OPERATIONAL EVENTS
+It can be mitigated with better engineering or proccess:
+Kaizen or Sigma
+ HARDWARE BREAKDOWNS
+ SOFTWARE BUGS
+ HUMAN ERROR
+ FIELD DEVICE MALFUNCTION
+
+NON-OPERATIONAL EVENTS 
+outside of the control of the asset owner
+ NATURAL EVENTS 
+ SMALL ANIMALS 
+ HACKERS
+
+Data Integrity is crucial to make real-time decisions
+Critical field equipement can have a detrimental impact 
+Incorrect data could be worse than having no data
+
+VIEW AND CONTROL
+COMMAND AND CONTROL
+OPEN-LOOP CONFIGURATION
+Used in large scale,not time sensitive
+CLOSED-LOOP CONFIGURATION
+Must be continous and happen quickly, its almost only computer
+Loss of View
+The operator can see if the process is functioning
+Loss of Control
+The operator has no ability to control a process
+Denial of Service can be intentional or unintentional  
