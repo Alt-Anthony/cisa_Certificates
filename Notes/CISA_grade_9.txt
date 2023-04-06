@@ -1,0 +1,53 @@
+ATTACK METODOLOGIES IN IT AND ICS
+
+ANATOMY OF A CYBERATTACK
+
+ DISCOVERY PHASE 
+ The attacker decide what systems to target, its and  
+ interative and continuous process, provides information
+ through entire process
+  Open Source Intelligence
+  Physical Surveillance
+  Public Domain Information Aggregation
+  Scanning tools can tell a intruder:
+  about devices.ports, firewalls, the name of the network
+  On ICS NETWORK 
+  ICS tools, high traffic scan or a failure can be signs that
+  someone is attacking their system
+  ICS TOOLS
+  -Wireshark
+  -Nessus
+  More aggresive scan take less time but introduce a tremendous
+  amount of traffic.
+  ICS vs IT
+  The time for scan IT systems will be shorter than ICS
+  systems
+  Dated information can be useful for an ICS attack
+  Social Engineering, is the validation of collected data
+  and it's relevance
+ ATTACK PHASE
+  Vulnerabilities and weaknesses to target for example:
+  -Configuracion Management: leaving unneeded ports and 
+   services can be a risk
+  -Software and Security Updates: Security software can create
+   high delays in systems.
+  -Protocols: 
+  Multi Pronged Attacks are made by using war dialing and war
+  driving
+  Vulnerability Information 
+
+ INTRUSION PHASE
+ MAINTAIN ACCESS is way for repeated access they might use
+ open-source kits to modify system codes, install malware on
+ hardware or on the system BIOS, they can survive a reboot,
+ full system install or hard drive replacement
+ Escalate Access, the attacker get ID and permission on the system
+ Undetected Access, 
+
+HOW THE ATTACKERS DO THE ATTACK
+TRITON
+BLACKENERGY
+  
+ 
+
+ 
