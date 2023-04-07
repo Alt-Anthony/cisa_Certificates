@@ -1,0 +1,11 @@
+Common Types of ICS
+
+SCADA= Supervisory Control and Data Acquisition
+
+DCS = Distributed Control Stystem
+
+PCS = Process Control System
+
+Risk Equationto identify the threats, vulnerabilities and
+consequences
+Intent 
