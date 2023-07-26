@@ -57,7 +57,7 @@ interrupted by an emergency shutdown or maintenance
 shutdown, ICS is used in every part of the proccess from
 startup to emergency, or maintenance or continous operations
 
-Batch: 
+Batch: only two percent
    
 
 
