@@ -11,48 +11,6 @@ LAYER APPROACH, developing defenses for all systems,
 -hardware security
 -software security
 
-BASELINE FOR DEFENDING ICS
--Recognize your baseline, documenting the baseline will
-show progress when you make changes
--Understand your policies, some companies have "unwritten"
-policies
--Implement your polices
--Identify all you ICS networks components
--Compare what you identified on your baseline
--Prioritize and make changes
--Star all over again
-You can use to develop your baseline, the software called
-Cyber Security Evaluation Tool(CSET)
- -The tool cannot fix the gaps it identifies, is responsibility
- of the user
- -Will no indicate if your answer are correct or incorrect
 
-MANAGEMENT DEFENSE LAYER
-Security Model
- Map Architecture, map the ICS architectures, an accurate and well
- documented architecture can help to deploy effective security
- countermeasures
- Risk Assesment is the procces of identifying the threat and his impact
- Digital Asset ID
- Profile Model, what type of protection is needed for each ICS component
- Identify/Remove Vulnerabilities
- Standardize Policies, 
- Incident Response, How the organization will respond to an incident,
- the tools for detecting the problem 
- Training,
-
-Security Policy, Recomendations
-Acceptable Use, Internet Policies and practices, Hiring qualifications
-Change Management, Change Control
-Access Control
-Incident Response: 
--Preparation proactive phase,
--Identification
--Containment
--Clean-up&Recovery
--Follow-up
-
-Describe Physical Security Layer
-Physical Access
 
 	
