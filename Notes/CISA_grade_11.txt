@@ -1,14 +1,3 @@
-NETWORK SECURITY LAYER OF DEFENSE
-The third layer, can reduce the types of networks attacks
-With the Purdue Enterprise Reference Architecture model or 
-Purdue model, Cyber risk is reduced by defining critical network
-paths, you can create data pathways into and out of specific levels
-Security Technologies
-It network defenses include security technologies and network management
-These defenses are very common on IT networks, ICS networks are just
-starting to deploy these defensive measures
-External Connections
-can be limitated and employ encriptation to protect data can use VPN
 
 Perimeter Components
 Only firewalls are deployed in ICS systems for the moment
