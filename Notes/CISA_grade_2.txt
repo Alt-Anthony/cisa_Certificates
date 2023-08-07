@@ -70,14 +70,6 @@ SECURITY GOVERNANCE
 SECURITY POLICY Importance of the security, standards,
 follow procedures
 
-IT VULNERABILITIES
-Tools available to exploit the vulnerability?
-How easy is to exploit the ||?
-How much does it cost to fix?
-How accurate is the information about the ||?
-Is  there any colateral damage ?
-There are vulnerabilities since the networks were designed
-Vulnerabilities dont always result in an oportunity
-for an adversary
+
 
  
