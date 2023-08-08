@@ -41,10 +41,4 @@ Even with isolation there are still risks
 SUPPORT PERSONNEL
 the human error, untrained operators
 ICS consecuences can be more impactful than IT consequences
-SECURITY TESTING
-Testing can reveal system risks and countermeasures, It focus on C-I-A
-ICS testing can be a disadvantage, test for ICS should be performed in a
-sandbox
-INCIDENT RESPONSE
-OUTSOURCING 
-IT services are more easier than ICS 
+
