@@ -2,12 +2,7 @@ DESCRIBE COMMON ICS COMPONENTS
 each ICS function differently
 SERVERS store configuration and saves process data for later
 retrieval, allow remote control
-ENGINEERING WORKSTATIONS a human-machine interface, modify
-database or controllers
-FIELD DEVICES are instruments, they control the process
-with parameters they are called input devices too, output
-devices are valves switches, they are the interface between ICS
-and physical process
+¿
   INPUT
     DIGITAL sensors use a encoded ICS communications
     ANALOG use an analog signal such as 4 to 20MA
