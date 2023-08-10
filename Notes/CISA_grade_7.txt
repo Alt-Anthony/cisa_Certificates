@@ -1,16 +1,3 @@
-IDENTIFY VULNERABLE ELEMENTS IN AN ICS
-Targets: any system,Integrated systems are vulnerable, and
-more risk if connected to the control system network
-Common vulnerabilities:
--Poor Code
--Vulnerable Web Services
--Poor Network Protocol Implementation
--Poor Patch Management
--Weak Authentication
--Least User Privileges Violation
--Information Disclosure
--Network Design
--Network Componenet Configurations
 
 Discuss the Factors Contributing To ICS VULNERABILITIES
 -Rapid information exchange limit security
