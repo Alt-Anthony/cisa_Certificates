@@ -2,16 +2,7 @@ ATTACK METODOLOGIES IN IT AND ICS
 
 ANATOMY OF A CYBERATTACK
 
- DISCOVERY PHASE 
- The attacker decide what systems to target, its and  
- interative and continuous process, provides information
- through entire process
-  Open Source Intelligence
-  Physical Surveillance
-  Public Domain Information Aggregation
-  Scanning tools can tell a intruder:
-  about devices.ports, firewalls, the name of the network
-  On ICS NETWORK 
+
   ICS tools, high traffic scan or a failure can be signs that
   someone is attacking their system
   ICS TOOLS
