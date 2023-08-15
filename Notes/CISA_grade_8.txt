@@ -16,16 +16,6 @@ Kaizen or Sigma
  HUMAN ERROR
  FIELD DEVICE MALFUNCTION
 
-NON-OPERATIONAL EVENTS 
-outside of the control of the asset owner
- NATURAL EVENTS 
- SMALL ANIMALS 
- HACKERS
-
-Data Integrity is crucial to make real-time decisions
-Critical field equipement can have a detrimental impact 
-Incorrect data could be worse than having no data
-
 VIEW AND CONTROL
 COMMAND AND CONTROL
 OPEN-LOOP CONFIGURATION
