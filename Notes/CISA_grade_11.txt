@@ -1,19 +1,5 @@
 
-Perimeter Components
-Only firewalls are deployed in ICS systems for the moment
-IDS or Intrusion Detection System
- -NIDS detect anomalies in the network and can notify administrators
- -HIDS detect and log the modifications to files 
-Intrusion Prevention System
-Come in both forms 
-UTM is less expensive and more used in small and mid business
-Firewall Implementation 
-the default configuration is deny all connections and all ports closed
-IT DEPLOY FIREWALL
--1 vendor default rule set
--2 best practice rule sets
--3 Customize rule sets
--4 Apply rules
+
 Firewall Diversity
 Host and network based
 Implementation
