@@ -1,17 +1,6 @@
 INFORMATION TECHNOLOGY COMPONENTS
 Most common IT infra.. components:
-    Switches adn routers,firewalls,remote access,
-    database, client, server, wireless access
-effective comunication is vital in bussiness
-SWTICHES: create a network to share comnnection between users
-they choose the best path for information to travel
-DATABASES: store information needes for operations, is vital
-for business decisions, the network component provides 
-communications between databases, security is important
-in this component
-SERVERS: they serve database to the customer is common to have
-large amount of ram and storage space, security in this
-component is also crucial
+
 WIRELESS ACCESS
 FIREWALLS: can be implemented in hardware or software
 In hardware firewall you can use DHCP or dynamic host
