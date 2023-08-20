@@ -1,8 +1,4 @@
-DESCRIBE COMMON ICS COMPONENTS
-each ICS function differently
-SERVERS store configuration and saves process data for later
-retrieval, allow remote control
-¿
+
   INPUT
     DIGITAL sensors use a encoded ICS communications
     ANALOG use an analog signal such as 4 to 20MA
