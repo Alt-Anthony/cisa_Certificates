@@ -1,23 +1,5 @@
-IT AND ICS SECURITY
-new risk: worms viruses, unauthorized remote access
-GOALS: C-I-A C is the main concern in security controls for business
-In control system enviroment, A and I are superior
-An ICS enviroment must always be avaliable and C is not the primary
-goal
-DETERMINISM
-IT systems generate network traffic on demand when there is a request
-or maintenance, repeatable, predictable and designed
-INTERNET ACCESS
-ICS components are operated in an isolated environment
-Maintain and support systems
-Enable vendors to provide support and updates
-HOST APPLICATION
-In IT applications are used to support the diverse requirements of the
-organization
-In ICS only to monitor and control process
-SECURITY /CIKR COMPILANCE
-Major role ICS
-NERC/CIP to protect cyber assets
+
+ets
 SECURE SYSTEM DEVELOPMENT
 ICS must operate in high-availability, high-capacity but is quite difficult
 PHYSICAL SECURITY prevents unauthorized access to locations, remote access can be
