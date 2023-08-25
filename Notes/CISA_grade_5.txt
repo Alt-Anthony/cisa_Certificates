@@ -1,10 +1,3 @@
-
-
-ELEVATED RISK FACTORS
-CULTURAL FACTORS in ICS include people or processes involved with
-ICS, Now businesses require Isolated ICS to be safe
- People create process to stop cybersecurities, people can create
- vulnerabilities
 TECHNICAL FACTORS in ICS with the acutal systems and components in
 the system
  Interconnect Networks when ICS an IT are connected and if there 
