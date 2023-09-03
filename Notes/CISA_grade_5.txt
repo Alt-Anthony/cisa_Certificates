@@ -3,12 +3,5 @@ the system
  Interconnect Networks when ICS an IT are connected and if there 
  not protection, it creates a vulnerability
  Policies y Procedures  
- Vendors and the implementation of patches can make the system
- work in unexpected manner 
- Cybersecurity vulnerability such as Legacy devices and current
- devices
- Increasing Threats 
 
-ICS/IT INTEGRATED
-Mitigations: Speed, Detection, Intrusion, Resources, Compatibility
 
