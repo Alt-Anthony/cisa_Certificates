@@ -8,17 +8,7 @@ CHANGE MANAGEMENT
 1- The change can not impact the system in a negative way
 2-The time for the change
 After changes, it has to be tested it can be a long and expensive process
-IT AND ICS SUPPORTS
-Anti-Virus and Anti-Malware, IT domain: they are very popular, 
-ICS SYSTEMS VIEW
-they can run antivirus-software
-Antivirus technology can consume significant processing capacity
-Operations may not perform properly
-You can obtain manually antivirus
-PACTH MANAGEMENT
-ICS systems dont have many patches, IT systems get patches as soon as they
-released
-ICS assets owners must decide about patches to be implemented,
+¿mplemented,
 Even with isolation there are still risks
 SUPPORT PERSONNEL
 the human error, untrained operators
