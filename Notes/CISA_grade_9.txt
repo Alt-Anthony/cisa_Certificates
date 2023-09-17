@@ -5,17 +5,7 @@ ANATOMY OF A CYBERATTACK
 
   ICS tools, high traffic scan or a failure can be signs that
   someone is attacking their system
-  ICS TOOLS
-  -Wireshark
-  -Nessus
-  More aggresive scan take less time but introduce a tremendous
-  amount of traffic.
-  ICS vs IT
-  The time for scan IT systems will be shorter than ICS
-  systems
-  Dated information can be useful for an ICS attack
-  Social Engineering, is the validation of collected data
-  and it's relevance
+
  ATTACK PHASE
   Vulnerabilities and weaknesses to target for example:
   -Configuracion Management: leaving unneeded ports and 
