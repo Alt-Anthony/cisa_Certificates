@@ -1,11 +1,6 @@
 
 
-Firewall Diversity
-Host and network based
-Implementation
-IDS/IPS
-Setting up an IDS in an ICS is much easier than an IT enviroment
-Data Flow in ICS
+
 
 HARDWARE SECURITY LAYER OF DEFENSE
 
