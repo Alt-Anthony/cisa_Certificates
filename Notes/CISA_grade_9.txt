@@ -1,12 +1,4 @@
-ATTACK METODOLOGIES IN IT AND ICS
 
-ANATOMY OF A CYBERATTACK
-
-
-  ICS tools, high traffic scan or a failure can be signs that
-  someone is attacking their system
-
- ATTACK PHASE
   Vulnerabilities and weaknesses to target for example:
   -Configuracion Management: leaving unneeded ports and 
    services can be a risk
